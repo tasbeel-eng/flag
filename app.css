@@ -1,0 +1,146 @@
+body{
+    background-color: black;
+}
+.a{
+    height: 350px;
+    width: 700px;
+    background-color: #3b69a4;
+}
+.b{
+    background-color: #ecd11c;
+    width: 700px;
+    height: 70px;
+    position: relative;
+    top: 40%;
+}
+.c{
+    background-color: #ecd11c;
+    width: 70px;
+    height: 350px;
+    position: relative;
+    bottom: 20%;
+    left: 25%;
+}
+
+
+.d{
+    height: 350px;
+    width: 700px;
+    background-color: white;
+}
+.e{
+    background-color: #0066b3;
+    width: 700px;
+    height: 70px;
+    position: relative;
+    top: 40%;
+}
+.f{
+    background-color: #0066b3;
+    width: 70px;
+    height: 350px;
+    position: relative;
+    bottom: 20%;
+    left: 25%;
+}
+
+.g{
+    height: 350px;
+    width: 700px;
+    background-color: #ed1b24;
+
+}
+.h{
+    background-color: #fff;
+    width: 350px;
+    height: 70px;
+    position: relative;
+    top: 40%;
+    left: 25%;
+}
+.i{
+    background-color: #fff;
+    width: 70px;
+    height: 250px;
+    position: relative;
+    bottom: 5%;
+    left: 45%;
+}
+.name{
+    color: #fff;
+    /* background-color: aqua; */
+    display: inline-block;
+    text-align: center;
+    width: 700px;
+    /* position: relative; */
+}
+.section{
+    /* text-align: center; */
+    /* display: flex; */
+    align-items: center;
+}
+body{
+    padding: 30px;
+}
+
+.m{
+    height: 350px;
+    width: 700px;
+    background-color: #003f15;
+
+}
+.n{
+    background-color: #fff;
+    width: 700px;
+    height: 20px;
+    position: relative;
+    top: 37%;
+    left: 0%;
+}
+.o{
+    /* background-color: #ff9a00;
+    width: 70px;
+    height: 250px; */
+    /* position: relative;
+    bottom: 5%;
+    left: 45%; */
+}
+.o{
+    background-color: #fff;
+    width: 700px;
+    height: 20px;
+    position: relative;
+    top: 47%;
+    left: 0%;
+}
+.p{
+    background-color: #fff;
+    width: 700px;
+    height: 20px;
+    position: relative;
+    top: 57%;
+    left: 0%;
+}
+.q{
+    background-color: #fff;
+    width: 700px;
+    height: 20px;
+    position: relative;
+    top: 67%;
+    left: 0%;
+}
+.r{
+    background-color: #ff9a00;
+    width: 350px;
+    height: 100px;
+    position: relative;
+    top: -23%;
+    left: 0%;
+}
+.s{
+    /* width: 350px;
+    height: 100px; */
+    position: relative;
+    left: 50%;
+    bottom: 57%;
+}
